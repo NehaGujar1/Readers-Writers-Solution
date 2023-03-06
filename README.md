@@ -1,5 +1,5 @@
 # Readers-Writers-Solution
-# Readers-Writers Problem
+## Readers-Writers Problem
 
 Readers-Writers problem is a classical synchronization problem in OS.
 Basic assumptions:
